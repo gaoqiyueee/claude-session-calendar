@@ -1,0 +1,13 @@
+{
+  "name": "session-calendar",
+  "displayName": "会话日历",
+  "version": "0.1.0",
+  "description": "按天查看 Claude Code 会话，给会话和项目设目标、状态、完成度。",
+  "author": "gaoqiyueee",
+  "icon": "icon.svg",
+  "type": "module",
+  "slot": "tab",
+  "entry": "index.js",
+  "server": "server.js",
+  "permissions": []
+}
